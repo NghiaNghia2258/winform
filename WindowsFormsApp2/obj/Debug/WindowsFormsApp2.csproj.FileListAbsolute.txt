@@ -1,0 +1,14 @@
+E:\WorkSpace\abc\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+E:\WorkSpace\abc\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+E:\WorkSpace\abc\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+E:\WorkSpace\abc\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+E:\WorkSpace\abc\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+E:\WorkSpace\abc\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+E:\WorkSpace\abc\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+E:\WorkSpace\abc\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+E:\WorkSpace\abc\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+E:\WorkSpace\abc\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.FormDangKy.resources
+E:\WorkSpace\abc\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.FormDangNhap.resources
+E:\WorkSpace\abc\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.FormChiTietHoaDon.resources
+E:\WorkSpace\abc\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.FormDanhSachHoaDon.resources
+E:\WorkSpace\abc\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.FormQuanLy.resources
